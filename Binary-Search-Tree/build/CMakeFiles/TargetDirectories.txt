@@ -1,0 +1,3 @@
+C:/repos/ds-algo/Binary-Search-Tree/build/CMakeFiles/Binary-Search-Tree.dir
+C:/repos/ds-algo/Binary-Search-Tree/build/CMakeFiles/ALL_BUILD.dir
+C:/repos/ds-algo/Binary-Search-Tree/build/CMakeFiles/ZERO_CHECK.dir

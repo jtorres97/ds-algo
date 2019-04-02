@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\repos\ds-algo\Binary-Search-Tree\build\CMakeFiles\07efdcb9a276d61a9b231a407804645b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F4482E55-DDA3-3673-B859-700FCDEBA8C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
